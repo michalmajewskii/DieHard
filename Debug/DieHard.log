@@ -1,0 +1,5 @@
+﻿  squeeze.cpp
+C:\Users\Asus\source\repos\DieHard\DieHard\squeeze.cpp(37,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Asus\source\repos\DieHard\DieHard\squeeze.cpp(44,17): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Asus\source\repos\DieHard\DieHard\squeeze.cpp(32,6): warning C4101: "helper": lokalna zmienna, do której nie istnieje odwołanie
+  DieHard.vcxproj -> C:\Users\Asus\source\repos\DieHard\Debug\DieHard.exe
